@@ -1,3 +1,12 @@
+
+
+
+sani1486: ``cd tp-compact-keyboard/tp-compact-usb-keyboard/``  
+	  ``sudo ./tp-compact-usb-keyboard /dev/hidraw1``
+
+
+
+
 FnLk switcher for ThinkPad Compact Keyboards with TrackPoint
 ===============================================================
 
